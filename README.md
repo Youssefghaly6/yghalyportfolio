@@ -1,0 +1,2 @@
+# yghalyportfolio
+Data scientist
